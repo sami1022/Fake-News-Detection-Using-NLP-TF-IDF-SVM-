@@ -97,3 +97,32 @@ The model is evaluated using:
 ---
 
 ## 📁 Project Structure
+      Fake-News-Detection/
+      │
+      ├── data/
+      │ ├── Fake.csv
+      │ └── True.csv
+      │
+      ├── FAKE NEWS DETECTION.ipynb
+      ├── README.md
+      └── requirements.txt
+
+
+
+---
+
+## 🚀 How to Run the Project
+1. Clone the repository:
+     ```bash
+     git clone https://github.com/your-username/Fake-News-Detection.git
+2.Install dependencies:
+
+    pip install -r requirements.txt
+
+
+3.Open Jupyter Notebook:
+
+    jupyter notebook
+
+
+4.Run all cells in FAKE NEWS DETECTION.ipynb
