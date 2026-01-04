@@ -127,6 +127,12 @@ fake-news-detection/
 ├── README.md
 └── requirements.txt
 ```
+## Dataset Source
+The dataset used in this project is publicly available on Kaggle:
+https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
+
+Due to file size limitations, the dataset is not included in this repository.
+
 
 ---
 
